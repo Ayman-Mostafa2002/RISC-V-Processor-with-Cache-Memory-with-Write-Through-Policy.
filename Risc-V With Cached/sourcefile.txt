@@ -1,0 +1,14 @@
+Alu.v
+AluDecoder.v
+Cache.v
+CacheController.v
+CacheMemory.v
+ControlUnit.v
+DataPath.v
+InstructionsMemory.v
+MainDecoder.v
+MainMemory.v
+RegisterFile.v
+RiscV.v
+SignExtendation.v
+
